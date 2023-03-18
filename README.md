@@ -1,10 +1,10 @@
 # Restaurant Managent System
 <p align="center">
-  <img src="./picture/user.PNG" />
+  <img src="./Picture/user.PNG" />
 </p>
 
 <p align="center">
-  <img src="./picture/Main.PNG" />
+  <img src="./Picture/Main.PNG" />
 </p>
 
 
@@ -22,6 +22,7 @@ The following WinForms are:
 *	Cashier.cs
 *	Rider.cs
 *	Waiter.cs
+
 ### Sub Category:
 *	Delivery.cs
 *	Users.cs (User List) 		
