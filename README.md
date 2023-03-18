@@ -1,10 +1,10 @@
 # Restaurant Managent System
 <p align="center">
-  <img src="./Picture/user.PNG" />
+  <img src="./picture/user.PNG" />
 </p>
 
 <p align="center">
-  <img src="./Picture/Main.PNG" />
+  <img src="./picture/Main.PNG" />
 </p>
 
 
