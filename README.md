@@ -1,4 +1,3 @@
-# Bookmark (STAR) My Project if it's useful.
 # Restaurant Managent System
 <p align="center">
   <img src="./Picture/user.PNG" />
@@ -48,5 +47,3 @@ Install Visual Studio in PC, and run the file "restaurantSystem.sln" in the fold
 As well as run the database in a local server such as WAMP, XAMP and etc. Create a DB in the name of "restaurant" and import the SQL file into it. 
 Then connect the database from Visual Studio to the Server.
 
-# Developed by
-MOHAMMED REZAAN RIYAZ
